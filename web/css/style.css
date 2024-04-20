@@ -7,9 +7,17 @@
 }
 
 .banner__text{
-    font-size: 20px;
+    font-size: 22px;
 }
 
 .banner__img{
     max-height: 300px;
+}
+
+.site-index{
+    padding-top: 20px;
+}
+
+.banner{
+    padding-bottom: 40px;
 }
