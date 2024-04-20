@@ -1,0 +1,16 @@
+.auth__form{    
+    margin: 0 auto;
+    margin-top: 50px;
+    max-width: 400px;
+    background-color: rgb(215, 217, 217);
+    padding: 20px;
+}
+
+.banner__text{
+    font-size: 20px;
+}
+
+.banner__img{
+    max-height: 200px;
+
+}
